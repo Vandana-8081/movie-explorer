@@ -5,7 +5,7 @@ It provides movie details like title, year, poster, and type in a clean and resp
 
 🚀 Live Demo <br/>
 
-🔗 movie-explorer-8081.netlify.app <br/><br/>
+🔗https://movie-explorer-8081.netlify.app/ <br/><br/>
 
 🛠️ Tech Stack
 <br/>
